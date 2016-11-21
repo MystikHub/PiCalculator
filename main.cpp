@@ -10,7 +10,7 @@ double calculatePi(uint64_t iterations) {
     // do pi calculation here
 
     double pi = 4; // (4 / 1)
-    bool operation = false; // false = add, true = add
+    bool operation = false; // false = subtract, true = add
     uint64_t denominator = 3.0;
 
     for(uint64_t i = 0; i < iterations; i++) {
