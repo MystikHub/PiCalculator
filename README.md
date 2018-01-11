@@ -7,4 +7,4 @@ To calculate pi it does these calculations:
 
 Pretty simple, and that's why it's so slow
 
-This should be not used in a real world environment, but as a small example to demonstrate a straight-forward but inefficient way to calculate pi
+This should be not used in a real world environment, but as a small example to demonstrate a straight-forward but inefficient way to calculate pi.
